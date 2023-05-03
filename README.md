@@ -9,7 +9,11 @@ This project is a C++ HTTP/1.1 server.
 
 ## Deployment
 
-run ```make``` to create and execute ```./webserv path/server.conf```
+run ```make``` to create and execute
+ 
+```bash
+    ./webserv path/server.conf
+```
 
 If you don't specify the ```server.conf``` we set the default path to ```conf/config.conf```
 
