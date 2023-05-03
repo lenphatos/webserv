@@ -15,7 +15,9 @@ If you don't specify the ```server.conf``` we set the default path to ```conf/co
 
 For example with the default ```conf/config.conf```, you can now connect to the server with ```nc``` like the command bellow.
 
-```nc localhost 8001```
+```bash 
+    nc localhost 8001
+```
 
 The default port in ```conf/config.conf``` is set to ```8001```, you can change it.
 
